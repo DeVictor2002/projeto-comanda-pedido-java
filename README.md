@@ -8,3 +8,5 @@ Criei esse projeto para a fixação de conteúdos voltados a POO em Java.
  3. fazemos a inserção dos dados dos produtos
  4. Obtemos a comanda
 
+Resultados →
+![1](https://github.com/DeVictor2002/projeto-comanda-pedido-java/blob/main/img/Screenshot%20from%202024-10-15%2021-12-24.png)
