@@ -1,4 +1,4 @@
-# Projeto de ciração de pedidos em Java
+# Projeto de criação de pedidos em Java
 
 Criei esse projeto para a fixação de conteúdos voltados a POO em Java.
 
